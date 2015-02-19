@@ -1,2 +1,6 @@
 # helloworld
-Trying it all out
+================
+Last night I tried my hand at a bit of HTML. Today I'm creating a 
+GitHub page. What? You'd think I'm trying to learn to develop or something...
+
+We'll see...
